@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9FvLrnCs7TWlLS9dFu8ZeAQcnvkcIjEnZYvvcArrXOP3Usjg5ikVqvbMQ5e2XzYr4mylGL3eoj3qq4Dk1WGTbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abhijith\\OneDrive\\Documents\\Visual Studio 2022\\C sharp Calculator\\C sharp Calculator\\C sharp Calculator\\C sharp Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abhijith\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\abhijith\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\abhijith\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\abhijith\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
